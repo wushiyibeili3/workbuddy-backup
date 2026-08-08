@@ -1,0 +1,60 @@
+# SQLite databases (large, can corrupt during sync)
+*.db
+*.db-shm
+*.db-wal
+
+# Logs & traces
+logs/
+traces/
+
+# Runtime binaries (managed separately)
+binaries/
+
+# Internal app state (not portable)
+app/
+sessions/
+local_storage/
+tasks/
+audit-log/
+artifact-index/
+file-history/
+pending-telemetry/
+shell-snapshots/
+vendor/
+workspace/
+.workbuddy-sqlite-migrations/
+
+# Plugins & marketplace state
+plugins/
+plugin-marketplace-state-new/
+connectors-marketplace/
+.connectors-marketplace.meta.json
+
+# Connectors (contains encrypted auth tokens - DO NOT COMMIT)
+connectors/
+
+# Plans (historical, not needed)
+plans/
+
+# Conversation projects (synced via cloud)
+projects/
+
+# Temporary/state files
+usage-log.json
+user-state.json
+last-launch.json
+ioa-im-override.json
+desktop_conversation_migrated
+session_fragment_repair_done520
+tencent-docs-engine.port
+_bm_skillid_migration.json
+
+# Edge sync cache
+edge-sync-mapping.db*
+
+# MCP approvals
+mcp-approvals.json
+
+# OS files
+.DS_Store
+Thumbs.db

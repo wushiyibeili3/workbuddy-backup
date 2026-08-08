@@ -1,0 +1,26 @@
+{
+  "id": "automation-1786160640429",
+  "name": "每日儿童睡前故事",
+  "prompt": "写一个适合8岁女孩子的睡前故事，语言温和易懂，阅读时长约 3-5 分钟。故事需有完整情节，结尾附上简短寓意。",
+  "status": "ACTIVE",
+  "scheduleType": "recurring",
+  "nextRunAt": 1786191900000.0015,
+  "cwds": [
+    "C:/Users/盛龙科技/WorkBuddy/automation-2026-08-08-11-44-00"
+  ],
+  "rrule": "FREQ=DAILY;BYHOUR=20;BYMINUTE=30",
+  "validFrom": "2026-08-07T16:00:00.000Z",
+  "validUntil": "2026-08-16T15:59:59.999Z",
+  "modelId": "auto",
+  "modelIsThinking": true,
+  "skills": [],
+  "pushToWeChat": false,
+  "pushToWecomBot": false,
+  "ownerUserId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+  "ownerStatus": "confirmed",
+  "ownerSource": "created",
+  "connectorIds": [],
+  "permissionMode": "fullAccess",
+  "createdAt": 1786160640429,
+  "updatedAt": 1786160640429
+}

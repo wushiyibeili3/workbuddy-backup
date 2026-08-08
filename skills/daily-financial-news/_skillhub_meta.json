@@ -1,0 +1,13 @@
+{
+  "name": "每日财经新闻",
+  "installedAt": 1786159927583,
+  "source": "marketplace",
+  "version": "1.0.1",
+  "skillId": "skill_2076628269121765376",
+  "examples_zh": [
+    "获取今天的财经新闻并生成汇总报告"
+  ],
+  "description_zh": "财经新闻多源接入与深度解读，经去重分类后逐条深度概括，附市场影响解读。",
+  "description_en": "Multi-source financial news aggregation with deduplication and deep summaries.",
+  "iconSource": "letter:auto"
+}

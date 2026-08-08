@@ -1,0 +1,13 @@
+{
+  "name": "产业链分析",
+  "installedAt": 1786158227417,
+  "source": "marketplace",
+  "version": "1.0.1",
+  "skillId": "skill_2076627978773680128",
+  "examples_zh": [
+    "分析半导体产业链的投资机会"
+  ],
+  "description_zh": "产业链/赛道深度研究，支持全景拆解与瓶颈环节、金矿雷达、Serenity五维瓶颈验证。",
+  "description_en": "Industry chain deep research with BOM decomposition, gold mine radar, and Serenity verification.",
+  "iconSource": "letter:auto"
+}

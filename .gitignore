@@ -36,8 +36,8 @@ connectors/
 # Plans (historical, not needed)
 plans/
 
-# Conversation projects (synced via cloud)
-projects/
+# Conversation projects
+# (included in backup for cross-machine sync)
 
 # Temporary/state files
 usage-log.json

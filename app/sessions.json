@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-08T03:11:16.482Z",
+  "sessions": [
+    {
+      "conversationId": "45f20340-f479-4e2c-906d-a2f233d75bb7",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-08-10-50-23",
+      "startedAt": "2026-08-08T02:50:25.430Z",
+      "resumedAt": "2026-08-08T03:11:16.482Z"
+    },
+    {
+      "conversationId": "df19cdd3-9354-4222-972d-358bf7a02ced",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-08-10-52-16",
+      "startedAt": "2026-08-08T02:52:18.172Z",
+      "resumedAt": "2026-08-08T02:52:18.172Z"
+    },
+    {
+      "conversationId": "8f4f0a25-f39b-45e6-9b5c-4f3c878883aa",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-08-10-51-10",
+      "startedAt": "2026-08-08T02:51:12.469Z",
+      "resumedAt": "2026-08-08T02:51:12.469Z"
+    },
+    {
+      "conversationId": "56a616ae-33db-468e-8f53-2f30b7c9618f",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-06-10-39-21",
+      "startedAt": "2026-08-06T02:39:24.345Z",
+      "resumedAt": "2026-08-08T02:49:19.384Z"
+    },
+    {
+      "conversationId": "bfc86092-4e29-4776-8e7e-dea30ff30607",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-08-10-06-50",
+      "startedAt": "2026-08-08T02:06:52.499Z",
+      "resumedAt": "2026-08-08T02:37:10.170Z"
+    },
+    {
+      "conversationId": "543c78b8-284c-4dcc-bff2-b9b0ab37bfc1",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-07-09-12-06",
+      "startedAt": "2026-08-07T01:12:08.784Z",
+      "resumedAt": "2026-08-08T02:07:45.351Z"
+    },
+    {
+      "conversationId": "1fc2b82f-9706-4b8a-9daa-1266fa737864",
+      "userId": "347175e2-99d8-4f2f-ad52-5b5285976565",
+      "workDir": "C:\\Users\\盛龙科技\\WorkBuddy\\2026-08-07-08-57-17",
+      "startedAt": "2026-08-07T00:57:18.811Z",
+      "resumedAt": "2026-08-07T01:10:44.239Z"
+    }
+  ]
+}

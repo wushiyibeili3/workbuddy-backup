@@ -1,0 +1,9 @@
+{
+  "subject": "编写并生成两份确认书Word文档",
+  "description": "编写脚本生成《小程序商城定制需求确认书》和《技术任务确认书》两份专业Word文档",
+  "activeForm": "生成两份确认书文档",
+  "status": "completed",
+  "id": "2",
+  "createdAt": 1786156117783,
+  "updatedAt": 1786156192445
+}

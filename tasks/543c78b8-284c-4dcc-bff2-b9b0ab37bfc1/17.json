@@ -1,0 +1,9 @@
+{
+  "subject": "整理并写入调研结果文件",
+  "description": "将所有调研结果整理成指定格式，写入两个目标文件",
+  "activeForm": "整理并写入调研结果文件",
+  "status": "completed",
+  "id": "17",
+  "createdAt": 1786153478329,
+  "updatedAt": 1786153640737
+}

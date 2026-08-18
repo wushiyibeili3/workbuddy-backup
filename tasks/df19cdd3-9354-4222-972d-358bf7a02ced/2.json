@@ -1,0 +1,9 @@
+{
+  "subject": "预置示例数据并验证功能",
+  "description": "预置30个适合8岁儿童的英语单词，含1条逾期数据。验证localStorage、导出导入、双模式切换等核心功能。",
+  "activeForm": "预置数据并验证功能",
+  "status": "completed",
+  "id": "2",
+  "createdAt": 1786157641826,
+  "updatedAt": 1786157956157
+}

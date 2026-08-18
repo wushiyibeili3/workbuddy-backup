@@ -1,0 +1,12 @@
+{
+  "subject": "搭建报告框架并撰写预算报告",
+  "description": "基于收集到的数据，搭建报告框架，撰写完整的新业务拓展预算报告，面向董事会/股东汇报",
+  "activeForm": "撰写预算报告中",
+  "status": "completed",
+  "id": "2",
+  "createdAt": 1786325148722,
+  "updatedAt": 1786328881546,
+  "blockedBy": [
+    "1"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "汇总评级并上传腾讯文档",
+  "description": "全部10家尽调报告完成后，上传至腾讯文档并汇报评级汇总。",
+  "activeForm": "上传报告至腾讯文档",
+  "status": "completed",
+  "id": "105",
+  "createdAt": 1786159269237,
+  "updatedAt": 1786159891856
+}

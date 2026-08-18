@@ -1,0 +1,9 @@
+{
+  "subject": "生成成本估算PDF",
+  "description": "微信认证/支付费率、云开发、腾讯云翻译/ASR/TTS 费用测算，给出月成本区间。",
+  "activeForm": "生成成本估算PDF",
+  "status": "completed",
+  "id": "3",
+  "createdAt": 1787015600506,
+  "updatedAt": 1787015842325
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "整理并写入调研结果文件",
+  "description": "将调研结果按照指定格式整理，写入 C:\\Users\\盛龙科技\\.workbuddy\\skills\\jinqiangdashu-perspective\\references\\research\\05-decisions.md，同时保存副本到 C:\\Users\\盛龙科技\\Downloads\\nuwa-distill\\金枪大叔\\05-decisions.md",
+  "activeForm": "整理写入调研结果",
+  "status": "completed",
+  "id": "5",
+  "createdAt": 1786153477553,
+  "updatedAt": 1786153618963
+}

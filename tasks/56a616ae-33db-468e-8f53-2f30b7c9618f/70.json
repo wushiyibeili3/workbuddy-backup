@@ -1,0 +1,9 @@
+{
+  "subject": "官网深度尽调（抓取各页面）",
+  "description": "WebFetch访问每家企业的关于我们、产线装备、采购招标、新闻动态、联系我们等页面",
+  "activeForm": "抓取官网信息",
+  "status": "completed",
+  "id": "70",
+  "createdAt": 1786158889208,
+  "updatedAt": 1786158970121
+}

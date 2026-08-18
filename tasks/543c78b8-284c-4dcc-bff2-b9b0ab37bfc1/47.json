@@ -1,0 +1,9 @@
+{
+  "subject": "提取决策启发式（5-10条）",
+  "description": "从调研材料中提取他做判断时的快速规则，表述为\"如果X，则Y\"，有案例支撑",
+  "activeForm": "提取决策启发式",
+  "status": "completed",
+  "id": "47",
+  "createdAt": 1786154465431,
+  "updatedAt": 1786154632677
+}

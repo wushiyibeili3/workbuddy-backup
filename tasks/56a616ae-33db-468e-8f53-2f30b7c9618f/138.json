@@ -1,0 +1,9 @@
+{
+  "subject": "汇总评级报告",
+  "description": "汇总12家企业尽调结果，按采购优先级评级，生成总览报告",
+  "activeForm": "汇总评级",
+  "status": "pending",
+  "id": "138",
+  "createdAt": 1786159960892,
+  "updatedAt": 1786159960892
+}

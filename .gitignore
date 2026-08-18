@@ -14,7 +14,6 @@ binaries/
 app/
 sessions/
 local_storage/
-tasks/
 audit-log/
 artifact-index/
 file-history/
@@ -32,9 +31,6 @@ connectors-marketplace/
 
 # Connectors (contains encrypted auth tokens - DO NOT COMMIT)
 connectors/
-
-# Plans (historical, not needed)
-plans/
 
 # Conversation projects
 # (included in backup for cross-machine sync)

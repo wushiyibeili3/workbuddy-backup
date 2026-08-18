@@ -1,0 +1,9 @@
+{
+  "subject": "整理时间线并写入文件",
+  "description": "将所有调研结果整理成标准格式，写入指定路径的两个文件",
+  "activeForm": "整理写入时间线文件",
+  "status": "completed",
+  "id": "13",
+  "createdAt": 1786153478110,
+  "updatedAt": 1786153646023
+}

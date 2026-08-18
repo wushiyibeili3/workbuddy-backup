@@ -1,0 +1,9 @@
+{
+  "subject": "生成并上传全部8份尽调报告",
+  "description": "根据调研结果生成8份结构化尽调报告，按命名规则上传，最后汇报评级",
+  "activeForm": "生成并上传尽调报告",
+  "status": "completed",
+  "id": "125",
+  "createdAt": 1786159959340,
+  "updatedAt": 1786160292316
+}

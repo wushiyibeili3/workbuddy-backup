@@ -1,0 +1,9 @@
+{
+  "subject": "展示成品并交付",
+  "description": "通过 present_files 展示工作台，询问是否需要部署上线。",
+  "activeForm": "展示成品并交付",
+  "status": "completed",
+  "id": "3",
+  "createdAt": 1786157641834,
+  "updatedAt": 1786157968783
+}

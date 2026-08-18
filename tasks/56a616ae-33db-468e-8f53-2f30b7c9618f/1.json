@@ -1,0 +1,9 @@
+{
+  "subject": "抓取官网并收集信息（第一优先级）",
+  "description": "按技能 checklist 抓取首页、关于我们、产线/产品页、采购招标页等信息，优先收集产能产线、采购体系、企业基本盘三大核心信息",
+  "activeForm": "抓取官网信息中",
+  "status": "completed",
+  "id": "1",
+  "createdAt": 1785984885370,
+  "updatedAt": 1785984988756
+}

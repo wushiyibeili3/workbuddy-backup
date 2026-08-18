@@ -1,0 +1,9 @@
+{
+  "subject": "整合信息并撰写时间线文件",
+  "description": "将所有调研结果整合为结构化时间线文档，保存到指定路径",
+  "activeForm": "撰写时间线文档",
+  "status": "completed",
+  "id": "36",
+  "createdAt": 1786153480032,
+  "updatedAt": 1786153712771
+}

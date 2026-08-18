@@ -1,0 +1,12 @@
+{
+  "subject": "审阅完善报告",
+  "description": "审阅报告内容、格式、数据准确性，确保符合董事会汇报标准",
+  "activeForm": "审阅完善报告中",
+  "status": "completed",
+  "id": "3",
+  "createdAt": 1786325148729,
+  "updatedAt": 1786328881573,
+  "blockedBy": [
+    "2"
+  ]
+}

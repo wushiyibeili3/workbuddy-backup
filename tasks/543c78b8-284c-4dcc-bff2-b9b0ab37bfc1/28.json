@@ -1,0 +1,9 @@
+{
+  "subject": "写入调研文件到两个指定路径",
+  "description": "将调研结果写入 C:\\Users\\盛龙科技\\.workbuddy\\skills\\jinqiangdashu-perspective\\references\\research\\02-conversations.md 和 C:\\Users\\盛龙科技\\Downloads\\nuwa-distill\\金枪大叔\\02-conversations.md",
+  "activeForm": "写入调研文件",
+  "status": "completed",
+  "id": "28",
+  "createdAt": 1786153479182,
+  "updatedAt": 1786153701874
+}

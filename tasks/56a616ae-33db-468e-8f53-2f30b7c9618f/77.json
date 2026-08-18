@@ -1,0 +1,9 @@
+{
+  "subject": "WebFetch访问每家官网获取企业信息",
+  "description": "访问每家企业的官网页面，获取产品线、产能、采购体系等信息",
+  "activeForm": "爬取官网信息",
+  "status": "completed",
+  "id": "77",
+  "createdAt": 1786158889811,
+  "updatedAt": 1786158980523
+}

@@ -1,0 +1,9 @@
+{
+  "subject": "生成2026年8月8日财经新闻汇总HTML报告",
+  "description": "基于5个维度的neodata查询结果，经过去重、主题聚类、深度摘要后生成自包含HTML报告。",
+  "activeForm": "生成财经新闻汇总报告",
+  "status": "completed",
+  "id": "1",
+  "createdAt": 1786160045554,
+  "updatedAt": 1786160148472
+}

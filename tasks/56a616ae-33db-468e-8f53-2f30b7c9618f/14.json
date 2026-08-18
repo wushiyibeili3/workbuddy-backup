@@ -1,0 +1,9 @@
+{
+  "subject": "核实集团级平台URL（约30个平台）",
+  "description": "批量验证文档中所有集团采购平台的URL是否可访问、域名是否有效、是否已变更",
+  "activeForm": "核实集团采购平台URL中",
+  "status": "completed",
+  "id": "14",
+  "createdAt": 1786065313176,
+  "updatedAt": 1786065460570
+}

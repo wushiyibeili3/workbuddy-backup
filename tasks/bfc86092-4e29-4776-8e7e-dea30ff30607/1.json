@@ -1,0 +1,9 @@
+{
+  "subject": "搭建Python环境安装python-docx",
+  "description": "在隔离venv中安装python-docx，用于生成Word文档",
+  "activeForm": "搭建Python环境",
+  "status": "completed",
+  "id": "1",
+  "createdAt": 1786156117744,
+  "updatedAt": 1786156166275
+}

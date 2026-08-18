@@ -1,0 +1,9 @@
+{
+  "subject": "搭建初始项目骨架代码",
+  "description": "app.json/app.js/app.wxss/project.config.json/sitemap.json、utils/cloud.js、4个页面（语音互译/拍照翻译/双人对话/会员）、4个云函数（login/translate/asr/tts）。",
+  "activeForm": "搭建初始项目骨架代码",
+  "status": "completed",
+  "id": "5",
+  "createdAt": 1787015600519,
+  "updatedAt": 1787015847434
+}

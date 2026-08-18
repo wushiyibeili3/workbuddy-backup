@@ -15,6 +15,7 @@ const SERVERS = {
     bond: `${BASE}/hexin-ifind-ds-bond-mcp`,
     global_stock: `${BASE}/hexin-ifind-ds-global-stock-mcp`,
     index: `${BASE}/hexin-ifind-ds-index-mcp`,
+    future: `${BASE}/hexin-ifind-ds-futures-mcp`,
 };
 
 const _sessions = {};

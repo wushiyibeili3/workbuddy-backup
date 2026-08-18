@@ -15,6 +15,7 @@ SERVERS = {
     "bond": f"{BASE}/hexin-ifind-ds-bond-mcp",
     "global_stock": f"{BASE}/hexin-ifind-ds-global-stock-mcp",
     "index": f"{BASE}/hexin-ifind-ds-index-mcp",
+    "future": f"{BASE}/hexin-ifind-ds-futures-mcp",
 }
 
 _sessions = {}
